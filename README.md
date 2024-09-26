@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning more advanced features in NestJS, Linux system administration, and performance tuning with Nginx.
 - 💞 I’m looking to collaborate on projects involving MERN/PERN stacks, Next.js, and large-scale backend systems.
 - 📫 How to reach me: [abobr517@gmail.com]
-- ⚡️ Fun fact: I enjoy experimenting with proxy protocols like VLESS and working with open-source software!
 
 
 <!---
